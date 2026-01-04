@@ -7,10 +7,7 @@ venv/
 .venv/
 
 # 2. Ignorar Archivos de Datos Grandes
-*.csv
-*.tsv
-*.txt.gz
-
+data/*.csv
 #excepciones
 !variantes_mock.csv
 !datos_reales_prueba.csv
