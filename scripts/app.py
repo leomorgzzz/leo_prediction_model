@@ -8,9 +8,13 @@ from shinywidgets import output_widget, render_widget
 
 print("INICIANDO APP...")
 
-try:
-    rf_model = joblib.load('../binarios/modelo_clinvar_v2.pkl')
-    vectorizer = joblib.load('../binarios/vectorizador_clinvar_v2.pkl')
+base_dir = os.path.dirname(os.path.abspath(__file__))
+model_path = os.path.join(base_dir, '..', 'binarios', 'modelo_clinvar_v2.pkl')
+vec_path = os.path.join(base_dir, '..', 'binarios', 'vectorizador_clinvar_v2.pkl')
+
+try:    
+    rf_model = joblib.load(model_path)
+    vectorizer = joblib.load(vec_path)
     print("MODELOS CARGADOS CORRECTAMENTE [OK]")
 except Exception as e:
     print(f"ERROR CARGANDO MODELOS [FAIL]\n{e}")
