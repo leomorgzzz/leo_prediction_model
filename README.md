@@ -6,7 +6,7 @@ Una herramienta bioinformática impulsada por un modelo de aprendizaje autumáti
 
 ## Características Principales
 
-* **Algoritmo Híbrido:** Combina procesamiento de lenguaje natural (TF-IDF) sobre fenotipos médicos con características estructurales de la mutación.
+* **Algoritmo:** Combina procesamiento de lenguaje natural (TF-IDF) sobre fenotipos médicos con características estructurales de la mutación.
 * **Interfaz:** Dashboard interactivo diseñado en Shiny for Python.
 * **Visualización Interactiva:** Gráficos de dispersión (Jitter Boxplot) con Plotly para análisis granular de clústers de variantes.
 * **Compatibilidad NCBI:** Carga nativa de archivos `.txt` tabulares exportados directamente de ClinVar.
