@@ -1,0 +1,22 @@
+# --- .gitignore ---
+
+# 1. Ignorar Entornos Virtuales
+proyect_shiny_env/
+env/
+venv/
+.venv/
+
+# 2. Ignorar Archivos de Datos Grandes
+*.csv
+*.tsv
+*.txt.gz
+
+#excepciones
+!variantes_mock.csv
+!datos_reales_prueba.csv
+
+# 3. Basura de Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

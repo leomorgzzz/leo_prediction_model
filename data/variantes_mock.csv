@@ -1,0 +1,201 @@
+variant_id,quality_phred,read_depth,clinical_notes,target_class
+rs1,67,37,pathogenic found patient frameshift variant in,1
+rs2,57,33,intronic tolerated observed population variant,0
+rs3,69,28,variant patient critical_region in risk found,1
+rs4,82,30,benign observed intronic variant population,0
+rs5,56,35,variant risk found in stop_gained patient,1
+rs6,56,33,pathogenic found in variant inestable patient,1
+rs7,83,38,benign population observed estable variant,0
+rs8,71,28,in patient stop_gained critical_region variant found,1
+rs9,52,31,variant patient found in risk pathogenic,1
+rs10,68,29,observed no_change synonymous variant population,0
+rs11,53,26,patient found frameshift deleterious variant in,1
+rs12,53,13,found variant frameshift in patient stop_gained,1
+rs13,63,36,variant synonymous intronic observed population,0
+rs14,31,23,variant patient inestable found in critical_region,1
+rs15,34,35,in inestable found patient variant risk,1
+rs16,51,32,found risk variant patient in high_impact,1
+rs17,44,18,variant observed better population tolerated,0
+rs18,64,31,variant observed common_variant population tolerated,0
+rs19,46,30,stop_gained in found variant inestable patient,1
+rs20,38,35,tolerated intronic population variant observed,0
+rs21,81,29,inestable risk variant found patient in,1
+rs22,56,36,found high_impact in variant inestable patient,1
+rs23,61,28,population intronic observed variant common_variant,0
+rs24,38,23,patient found critical_region in variant risk,1
+rs25,51,31,observed population variant no_change tolerated,0
+rs26,61,33,variant patient risk inestable in found,1
+rs27,42,31,better population benign variant observed,0
+rs28,65,29,found in inestable variant high_impact patient,1
+rs29,50,28,variant in high_impact patient critical_region found,1
+rs30,55,17,in patient variant stop_gained found deleterious,1
+rs31,50,37,observed tolerated variant estable population,0
+rs32,87,30,intronic variant common_variant population observed,0
+rs33,59,30,inestable in high_impact patient found variant,1
+rs34,44,24,population common_variant variant observed tolerated,0
+rs35,72,28,variant intronic population observed synonymous,0
+rs36,41,32,patient variant in high_impact pathogenic found,1
+rs37,63,28,critical_region variant frameshift found in patient,1
+rs38,30,30,variant population benign observed better,0
+rs39,40,33,common_variant observed intronic population variant,0
+rs40,62,20,estable observed variant better population,0
+rs41,71,41,population observed variant no_change common_variant,0
+rs42,62,28,found in variant patient inestable high_impact,1
+rs43,58,29,synonymous observed variant benign population,0
+rs44,55,41,population no_change benign variant observed,0
+rs45,37,24,common_variant observed estable population variant,0
+rs46,49,22,intronic observed benign population variant,0
+rs47,53,21,population no_change tolerated observed variant,0
+rs48,75,20,synonymous population variant observed benign,0
+rs49,65,36,intronic population observed variant no_change,0
+rs50,33,36,variant observed intronic population common_variant,0
+rs51,64,22,benign variant observed no_change population,0
+rs52,54,32,synonymous estable population observed variant,0
+rs53,49,34,found patient variant in inestable critical_region,1
+rs54,69,26,risk in patient variant stop_gained found,1
+rs55,75,34,found deleterious high_impact in variant patient,1
+rs56,73,28,estable observed variant synonymous population,0
+rs57,47,27,pathogenic critical_region found in patient variant,1
+rs58,55,37,synonymous population variant observed estable,0
+rs59,64,34,found frameshift stop_gained in variant patient,1
+rs60,74,22,patient found variant in high_impact stop_gained,1
+rs61,52,30,patient variant critical_region high_impact in found,1
+rs62,57,27,variant observed intronic population common_variant,0
+rs63,43,28,observed population benign variant tolerated,0
+rs64,42,39,population variant tolerated benign observed,0
+rs65,72,27,in variant inestable risk patient found,1
+rs66,80,42,variant inestable found in patient frameshift,1
+rs67,58,32,risk patient high_impact in variant found,1
+rs68,75,26,observed estable population variant no_change,0
+rs69,65,33,synonymous variant estable population observed,0
+rs70,50,35,in patient pathogenic variant critical_region found,1
+rs71,65,21,estable variant population observed common_variant,0
+rs72,83,19,synonymous observed benign population variant,0
+rs73,59,29,variant observed intronic population common_variant,0
+rs74,83,27,risk variant deleterious patient found in,1
+rs75,20,23,variant no_change estable population observed,0
+rs76,72,32,population observed estable synonymous variant,0
+rs77,61,21,in critical_region frameshift patient variant found,1
+rs78,55,33,in critical_region found frameshift variant patient,1
+rs79,61,28,observed better benign variant population,0
+rs80,30,28,high_impact found critical_region variant in patient,1
+rs81,56,35,population benign estable observed variant,0
+rs82,65,29,variant observed population tolerated common_variant,0
+rs83,82,22,variant critical_region patient found inestable in,1
+rs84,52,19,observed variant population benign common_variant,0
+rs85,47,22,observed population estable variant no_change,0
+rs86,52,34,variant stop_gained patient pathogenic found in,1
+rs87,73,44,observed variant population benign better,0
+rs88,64,26,stop_gained inestable found variant in patient,1
+rs89,52,20,estable population no_change variant observed,0
+rs90,67,32,patient risk variant in found inestable,1
+rs91,61,29,in patient variant risk high_impact found,1
+rs92,74,31,population better variant observed common_variant,0
+rs93,49,17,observed variant better synonymous population,0
+rs94,55,29,variant patient in found high_impact critical_region,1
+rs95,54,26,population observed no_change estable variant,0
+rs96,38,29,common_variant variant observed population synonymous,0
+rs97,64,31,common_variant population observed better variant,0
+rs98,63,33,variant intronic observed population synonymous,0
+rs99,60,27,high_impact found in variant patient frameshift,1
+rs100,56,33,better intronic observed variant population,0
+rs101,38,42,no_change estable population variant observed,0
+rs102,53,32,in found variant patient inestable critical_region,1
+rs103,54,40,in deleterious critical_region found patient variant,1
+rs104,47,17,observed tolerated no_change variant population,0
+rs105,57,28,variant population common_variant observed benign,0
+rs106,66,31,observed benign population variant intronic,0
+rs107,88,36,found inestable variant patient in critical_region,1
+rs108,62,29,found in deleterious patient pathogenic variant,1
+rs109,63,37,observed better population estable variant,0
+rs110,58,29,observed variant common_variant intronic population,0
+rs111,31,43,tolerated variant population observed benign,0
+rs112,59,25,population common_variant observed variant tolerated,0
+rs113,60,32,observed benign population variant intronic,0
+rs114,96,22,in deleterious stop_gained found variant patient,1
+rs115,57,30,benign observed population common_variant variant,0
+rs116,64,30,in patient high_impact variant risk found,1
+rs117,59,31,variant observed intronic estable population,0
+rs118,42,37,variant inestable found patient in risk,1
+rs119,77,23,observed intronic population variant estable,0
+rs120,71,34,intronic variant population observed estable,0
+rs121,71,33,found frameshift risk variant patient in,1
+rs122,46,23,variant observed population no_change intronic,0
+rs123,81,27,frameshift patient deleterious found variant in,1
+rs124,38,28,observed better benign population variant,0
+rs125,68,39,intronic tolerated variant population observed,0
+rs126,92,30,pathogenic risk variant in found patient,1
+rs127,45,28,inestable found patient high_impact in variant,1
+rs128,51,30,variant patient found in deleterious inestable,1
+rs129,61,30,variant synonymous tolerated population observed,0
+rs130,52,32,variant stop_gained patient found in frameshift,1
+rs131,36,20,in variant patient stop_gained frameshift found,1
+rs132,61,23,observed common_variant benign variant population,0
+rs133,44,23,common_variant observed variant population synonymous,0
+rs134,67,24,variant population observed no_change synonymous,0
+rs135,46,38,observed no_change tolerated population variant,0
+rs136,83,33,variant estable population intronic observed,0
+rs137,48,24,tolerated population observed no_change variant,0
+rs138,55,24,variant synonymous population benign observed,0
+rs139,72,24,tolerated better variant population observed,0
+rs140,41,22,observed benign variant population common_variant,0
+rs141,63,25,variant in found critical_region patient high_impact,1
+rs142,79,30,variant in stop_gained patient found critical_region,1
+rs143,35,32,benign variant better observed population,0
+rs144,62,19,tolerated variant intronic population observed,0
+rs145,63,35,variant intronic tolerated observed population,0
+rs146,71,24,inestable patient found in frameshift variant,1
+rs147,41,28,variant population no_change observed common_variant,0
+rs148,40,32,common_variant population variant observed synonymous,0
+rs149,67,29,critical_region in inestable variant found patient,1
+rs150,64,30,common_variant population observed estable variant,0
+rs151,63,22,synonymous variant population no_change observed,0
+rs152,65,30,in high_impact found patient deleterious variant,1
+rs153,49,26,frameshift in risk variant patient found,1
+rs154,63,25,observed tolerated population variant no_change,0
+rs155,64,31,variant intronic population observed better,0
+rs156,49,35,variant found deleterious risk patient in,1
+rs157,87,21,observed benign population variant better,0
+rs158,67,31,in variant patient deleterious found frameshift,1
+rs159,42,29,variant observed intronic population estable,0
+rs160,69,26,variant population synonymous observed no_change,0
+rs161,45,32,patient variant critical_region in frameshift found,1
+rs162,71,28,patient variant found inestable in high_impact,1
+rs163,77,32,stop_gained critical_region variant patient found in,1
+rs164,47,22,critical_region found variant patient frameshift in,1
+rs165,74,26,common_variant synonymous variant observed population,0
+rs166,66,24,found inestable critical_region patient variant in,1
+rs167,72,20,in found high_impact patient stop_gained variant,1
+rs168,88,22,found risk variant patient in stop_gained,1
+rs169,56,36,found variant in patient critical_region pathogenic,1
+rs170,48,24,population observed variant no_change common_variant,0
+rs171,46,40,patient frameshift variant found in pathogenic,1
+rs172,47,31,deleterious variant patient in pathogenic found,1
+rs173,58,35,pathogenic found patient variant in stop_gained,1
+rs174,65,27,found in variant critical_region inestable patient,1
+rs175,64,30,patient pathogenic found variant in critical_region,1
+rs176,72,22,variant found stop_gained in patient pathogenic,1
+rs177,60,26,critical_region variant patient in found stop_gained,1
+rs178,81,23,patient frameshift found variant pathogenic in,1
+rs179,56,30,no_change observed common_variant variant population,0
+rs180,100,27,variant pathogenic frameshift patient found in,1
+rs181,69,27,in pathogenic found variant patient critical_region,1
+rs182,47,26,in found inestable deleterious variant patient,1
+rs183,43,34,patient variant inestable in found pathogenic,1
+rs184,67,29,variant pathogenic critical_region found in patient,1
+rs185,56,23,stop_gained variant patient in risk found,1
+rs186,70,41,pathogenic risk variant found in patient,1
+rs187,67,20,inestable variant patient found stop_gained in,1
+rs188,58,31,better population variant no_change observed,0
+rs189,47,23,patient variant in critical_region found deleterious,1
+rs190,37,25,stop_gained in high_impact found patient variant,1
+rs191,53,24,tolerated population synonymous observed variant,0
+rs192,72,33,variant found inestable in patient frameshift,1
+rs193,63,28,stop_gained variant deleterious found patient in,1
+rs194,41,28,in critical_region found patient variant frameshift,1
+rs195,62,29,better variant observed intronic population,0
+rs196,65,29,stop_gained in risk variant found patient,1
+rs197,46,34,high_impact in stop_gained patient variant found,1
+rs198,62,28,variant deleterious found patient in stop_gained,1
+rs199,60,39,found in frameshift variant patient inestable,1
+rs200,42,32,variant in deleterious patient pathogenic found,1
