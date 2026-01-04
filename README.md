@@ -22,7 +22,7 @@ Una herramienta bioinformática impulsada por un modelo de aprendizaje autumáti
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/leomorgzzz/leo_prediction_model.git](https://github.com/leomorgzzz/leo_prediction_model.git)
+    git clone https://github.com/leomorgzzz/leo_prediction_model.git
     cd leo_pm
     ```
 
